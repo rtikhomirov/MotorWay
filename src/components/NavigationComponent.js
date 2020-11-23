@@ -20,7 +20,7 @@ const NavigationComponent = (props) => {
             </Navbar>
         </React.Fragment>
     );
-}
+};
 
 export default NavigationComponent;
 
